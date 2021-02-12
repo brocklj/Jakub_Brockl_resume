@@ -1,0 +1,85 @@
+{
+  "selectedTemplate": 8,
+  "headings": {
+    "skills": "",
+    "projects": "",
+    "awards": "",
+    "work": "Pracovní zkušenosti"
+  },
+  "basics": {
+    "name": "Jakub Bröckl",
+    "email": "brockljakub@gmail.com",
+    "phone": "+420702041283",
+    "location": {
+      "address": "Remote"
+    },
+    "website": "github.com/jbrockl"
+  },
+  "education": [
+    {
+      "startDate": "",
+      "endDate": "",
+      "gpa": ""
+    }
+  ],
+  "work": [
+    {
+      "location": "",
+      "website": "",
+      "endDate": "únor 2014",
+      "highlights": [
+        null
+      ],
+      "position": "Frontend Web Developer",
+      "company": "Fraggo.net",
+      "startDate": "leden 2013"
+    },
+    {
+      "highlights": [
+        null
+      ],
+      "company": "LogicalPlan"
+    },
+    {
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
