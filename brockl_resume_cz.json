@@ -2,9 +2,9 @@
   "selectedTemplate": 8,
   "headings": {
     "skills": "",
-    "projects": "",
-    "awards": "",
-    "work": "Pracovní zkušenosti"
+    "work": "Pracovní zkušenosti",
+    "projects": "Projekty",
+    "education": "Vzdělání"
   },
   "basics": {
     "name": "Jakub Bröckl",
@@ -17,52 +17,61 @@
   },
   "education": [
     {
-      "startDate": "",
+      "startDate": "září 2015",
       "endDate": "",
-      "gpa": ""
+      "gpa": "",
+      "institution": "Unicorn University",
+      "location": "Praha, CZ",
+      "area": "Systémové inženýrství - Informační technologie"
     }
   ],
   "work": [
     {
-      "location": "",
+      "location": "Praha, CZ",
       "website": "",
-      "endDate": "únor 2014",
-      "highlights": [
-        null
-      ],
-      "position": "Frontend Web Developer",
-      "company": "Fraggo.net",
+      "endDate": "únor 2015",
+      "highlights": ["zaskání zkušenoti s webdesignem"],
+      "position": "Fullstack Developer",
+      "company": "Prins Software",
       "startDate": "leden 2013"
     },
     {
-      "highlights": [
-        null
-      ],
-      "company": "LogicalPlan"
+      "highlights": ["PHP", "Nodejs", "Typescript", "React", null],
+      "company": "LogicalPlan",
+      "position": "Fullstack developer",
+      "location": "Šumperk, CZ",
+      "startDate": "září 2017",
+      "endDate": "září 2017"
     },
     {
-      "highlights": [
-        ""
-      ]
+      "highlights": ["Kodování šablon"],
+      "company": "Fraggo.net",
+      "position": "Frontend Developer",
+      "location": "Prague, CZ",
+      "startDate": "srpen 2013",
+      "endDate": "únor 2015"
     }
   ],
   "skills": [
     {
       "name": "",
       "level": "",
-      "keywords": [
-        ""
-      ]
+      "keywords": [""]
     }
   ],
   "projects": [
     {
-      "name": "",
-      "description": "",
-      "url": "",
+      "url": "https://teamzr.io",
       "keywords": [
-        ""
-      ]
+        "Node.js",
+        "React.js",
+        "Next.js",
+        "GraphQL",
+        "MongoDB",
+        null
+      ],
+      "name": "Teamzr.io",
+      "description": "PWA Aplikace pro podporu týmových výzev "
     }
   ],
   "awards": [
