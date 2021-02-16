@@ -1,18 +1,15 @@
 {
   "selectedTemplate": 8,
   "headings": {
-    "skills": "",
     "work": "Pracovní zkušenosti",
-    "projects": "Projekty",
-    "education": "Vzdělání"
+    "projects": "Osobní projekty",
+    "education": "Vzdělání",
+    "skills": "Dovednosti"
   },
   "basics": {
     "name": "Jakub Bröckl",
-    "email": "brockljakub@gmail.com",
+    "email": "linkedin.com/in/jakub-brockl",
     "phone": "+420702041283",
-    "location": {
-      "address": "Remote"
-    },
     "website": "github.com/jbrockl"
   },
   "education": [
@@ -29,34 +26,67 @@
     {
       "location": "Praha, CZ",
       "website": "",
-      "endDate": "únor 2015",
-      "highlights": ["zaskání zkušenoti s webdesignem"],
-      "position": "Fullstack Developer",
+      "highlights": [
+        "Prohloubení zkušeností s Docker a jeho adminstrací",
+        "Vývoj v nejnovější verzi React.js a využitím MaterialUI",
+        "Prohloubení poředchozích zkušeností s GraphQL API a clientské části"
+      ],
+      "position": "Fullstack developer",
       "company": "Prins Software",
-      "startDate": "leden 2013"
+      "startDate": "leden 2020"
     },
     {
-      "highlights": ["PHP", "Nodejs", "Typescript", "React", null],
+      "highlights": [
+        "Utvrzení dovednosti vývoje v backend  technologích a message brokers",
+        "Získánní  zkušeností s PostgreSQL vytvářením návrhů, změn relačního schéma a migrací dat mezi systémy.",
+        "Využití Typescriptu  na projektu na obou serverové a klientské části",
+        "Zdokonalení dovedností v React.js vývojem aplikace pro vizualizací dat a plánování pracovního vytížení týmu",
+        "Získání zkušesnotí s Linux server administrací nasazováním a přípravou deploymentu",
+        "Ostatní: React.js, SASS,  CSS, HTML, jQuery, MaterialUI, D3.js"
+      ],
       "company": "LogicalPlan",
       "position": "Fullstack developer",
       "location": "Šumperk, CZ",
       "startDate": "září 2017",
-      "endDate": "září 2017"
+      "endDate": "říjen 2019"
     },
     {
-      "highlights": ["Kodování šablon"],
+      "highlights": [
+        "Získání zkušeností s komerčním vývojem účastí na projektech  v oblasti e-commerce ",
+        null
+      ],
       "company": "Fraggo.net",
-      "position": "Frontend Developer",
-      "location": "Prague, CZ",
+      "position": "Frontend developer",
+      "location": "Praha, CZ",
       "startDate": "srpen 2013",
       "endDate": "únor 2015"
     }
   ],
   "skills": [
     {
-      "name": "",
       "level": "",
-      "keywords": [""]
+      "keywords": [
+        "Javascript",
+        "PL/SQL",
+        "Ruby",
+        "C#",
+        "PHP",
+        "Html",
+        "Css",
+        ""
+      ],
+      "name": "Programovací jazyky a jiné"
+    },
+    {
+      "keywords": [
+        "Node.js",
+        "React.js",
+        "GraphQL",
+        "PostgreSQL",
+        "MongoDb",
+        ""
+      ],
+      "name": "Technologie a frameworky"
     }
   ],
   "projects": [
@@ -68,7 +98,8 @@
         "Next.js",
         "GraphQL",
         "MongoDB",
-        null
+        "MaterialUI",
+        ""
       ],
       "name": "Teamzr.io",
       "description": "PWA Aplikace pro podporu týmových výzev "
