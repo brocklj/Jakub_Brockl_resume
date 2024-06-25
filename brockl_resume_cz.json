@@ -1,25 +1,33 @@
 {
-  "selectedTemplate": 8,
+  "selectedTemplate": 2,
   "headings": {
     "work": "Pracovní zkušenosti",
-    "projects": "Osobní projekty",
+    "projects": "Projekty",
     "education": "Vzdělání",
-    "skills": "Dovednosti"
+    "skills": "Dovednosti",
+    "awards": "Profil"
   },
   "basics": {
-    "name": "Jakub Bröckl",
+    "name": "Bc. Jakub Bröckl",
     "email": "linkedin.com/in/jakub-brockl",
-    "phone": "+420702041283",
-    "website": "github.com/jbrockl"
+    "phone": "+420 792 758 111",
+    "website": "github.com/jbrockl",
+    "location": {
+      "address": "Zábřeh, Česká Republika"
+    }
   },
   "education": [
     {
-      "startDate": "září 2015",
-      "endDate": "",
-      "gpa": "",
       "institution": "Unicorn University",
       "location": "Praha, CZ",
-      "area": "Systémové inženýrství - Informační technologie"
+      "area": "Systémové inženýrství a informační technologie - Informační technologie, Ekonomie",
+      "endDate": "-"
+    },
+    {
+      "institution": "Udacity",
+      "area": "Udacity Nanodegree Program: Mobile web specialist",
+      "endDate": "-",
+      "location": "On-line"
     }
   ],
   "work": [
@@ -27,36 +35,36 @@
       "location": "Praha, CZ",
       "website": "",
       "highlights": [
-        "Prohloubení zkušeností s Docker a jeho adminstrací",
-        "Vývoj v nejnovější verzi React.js a využitím MaterialUI",
-        "Prohloubení poředchozích zkušeností s GraphQL API a clientské části"
+        "vývoj aplikací na platformě Android pro Zebra skenery v oblasti skladového hospodářství",
+        "implementace uživatelského urychlení inventur zboží za pomocí RFID skenerů, jejich zpracování a vyhodnocení",
+        "spolupráce na rozvoji ERP/CRM řešení za využití Oracle databáze",
+        "podpora a vývoji API částí pro klientské aplikace za využití Node.js, Typescriptu spolu s  Loopback",
+        "realizace částí nákupní zákaznické aplikace za využití Typescriptu a React Native"
       ],
-      "position": "Fullstack developer",
-      "company": "Prins Software",
-      "startDate": "leden 2020"
+      "position": "fullstack vývojář",
+      "company": "PRINS SOFTWARE, s.r.o.",
+      "startDate": "leden 2020",
+      "endDate": "červen 2024"
     },
     {
       "highlights": [
-        "Utvrzení dovednosti vývoje v backend  technologích a message brokers",
-        "Získánní  zkušeností s PostgreSQL vytvářením návrhů, změn relačního schéma a migrací dat mezi systémy.",
-        "Využití Typescriptu  na projektu na obou serverové a klientské části",
-        "Zdokonalení dovedností v React.js vývojem aplikace pro vizualizací dat a plánování pracovního vytížení týmu",
-        "Získání zkušesnotí s Linux server administrací nasazováním a přípravou deploymentu",
-        "Ostatní: React.js, SASS,  CSS, HTML, jQuery, MaterialUI, D3.js"
+        "implementace API serveru v Node.js za využití Typescriptu a message brokerů",
+        "vytváření návrhů, změn relačního schéma a migrací dat mezi systémy",
+        "vývoj aplikace v React.js pro vizualizací dat a plánování pracovního vytížení týmu"
       ],
-      "company": "LogicalPlan",
-      "position": "Fullstack developer",
+      "company": "Euro Enterprise Development s.r.o.",
+      "position": "programátor / analytik",
       "location": "Šumperk, CZ",
       "startDate": "září 2017",
       "endDate": "říjen 2019"
     },
     {
       "highlights": [
-        "Získání zkušeností s komerčním vývojem účastí na projektech  v oblasti e-commerce ",
+        "vývoj webových aplikací a prezentací v oblasti e-commerce",
         null
       ],
-      "company": "Fraggo.net",
-      "position": "Frontend developer",
+      "company": "Fraggo.NET, s.r.o.",
+      "position": "vývojář webových aplikací",
       "location": "Praha, CZ",
       "startDate": "srpen 2013",
       "endDate": "únor 2015"
@@ -66,27 +74,37 @@
     {
       "level": "",
       "keywords": [
-        "Javascript",
+        "Javascript – Node.js",
         "PL/SQL",
-        "Ruby",
-        "C#",
-        "PHP",
-        "Html",
-        "Css",
-        ""
+        "Kotlin",
+        "Typescript"
       ],
-      "name": "Programovací jazyky a jiné"
+      "name": "Programovací jazyky"
     },
     {
       "keywords": [
-        "Node.js",
+        "Loopback 4 (IBM)",
+        "Oracle DB ",
         "React.js",
-        "GraphQL",
-        "PostgreSQL",
-        "MongoDb",
-        ""
+        "Android development",
+        "Firebase",
+        "React Native",
+        "TypeORM",
+        "Git"
       ],
-      "name": "Technologie a frameworky"
+      "name": "Technologie"
+    },
+    {
+      "keywords": [
+        "Nest.js",
+        "Mongo DB",
+        "Docker",
+        "Zebra Technologies",
+        "RFID",
+        "PHP",
+        "Linux Shell"
+      ],
+      "name": "Základní znalost"
     }
   ],
   "projects": [
@@ -97,29 +115,28 @@
         "React.js",
         "Next.js",
         "GraphQL",
-        "MongoDB",
+        "Mongo DB",
         "MaterialUI",
-        ""
+        "Nest.js",
+        "Mongoose"
       ],
       "name": "Teamzr.io",
-      "description": "PWA Aplikace pro podporu týmových výzev "
+      "description": "víceuživatelská PWA aplikace pro podporu týmové práce a týmových výzev "
     }
   ],
   "awards": [
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
+      "summary": "včetně Typescriptu, Node.js a SQL. Mám pevné základy v práci s databázovými systémy a vášeň pro učení a rozšiřování svých technických dovedností. Aktuálně hledám příležitosti k ustálení a prohloubení svých dosavadních znalostí v dynamickém a inovativním prostředí, kde mohu přispět k vývoji kvalitního softwaru a zároveň se dále profesionálně rozvíjet.",
+      "title": "Jsem vývojář softwaru s bohatou zkušeností v různých technologiích"
     }
   ],
   "sections": [
     "templates",
     "profile",
-    "education",
+    "awards",
     "work",
-    "skills",
     "projects",
-    "awards"
+    "skills",
+    "education"
   ]
 }
